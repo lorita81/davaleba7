@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+.conteiner{
+    background-color: #FAFAFA;
+
+width: 562px;
+border-top: 20px;
+border-radius: 20px;
+margin-top: 50px;
+padding-top: 63px;
+padding-left: 56px;
+padding-right: 63px;
+padding-bottom: 45px;
+border: 1px solid #DCDCDC
+
+}
+
+.h{
+font-family: Inter;
+font-size: 20px;
+line-height: 36px;
+
+}
+hr{
+
+    border: 1px solid #DDDDDD;
+    width: 443px;
+    left: 495px;
+}
+p{
+text-align: left;
+
+
+}
+.p2{
+font-family: Inter;
+font-size: 20px;
+line-height: 24px;
+color: #5076FF;
+margin-left:auto;
+text-align:right;
+
+}
+
+
